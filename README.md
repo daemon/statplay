@@ -1,0 +1,2 @@
+# statplay
+Computational statistics playground.
